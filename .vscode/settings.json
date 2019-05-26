@@ -1,0 +1,10 @@
+{
+	"files.associations": {
+		"core.h": "c",
+		"system_utils.h": "c",
+		"network_utils.h": "c",
+		"types.h": "c",
+		"typeinfo": "c"
+	},
+	"C_Cpp.dimInactiveRegions": false
+}
