@@ -1,4 +1,4 @@
 # yao
 Unfinished remote administration tool. Based on https://github.com/solanav/ezekiel
 
-For the commercial version, check out https://liusoftware.com or get in touch with info@liusoftware.com
+For the commercial version, send me a message at solanav@qq.com
